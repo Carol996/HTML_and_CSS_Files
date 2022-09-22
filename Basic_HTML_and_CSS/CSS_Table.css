@@ -1,0 +1,14 @@
+table	{
+	border:10px solid silver;
+}
+td:hover	{
+	background-color: lightcoral;
+	color: maroon;
+}
+tr, th	{
+	background-color: crimson;
+	color: white;
+}
+h3	{
+	text-shadow: 2px 2px #D3D3D3
+}
