@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <title>A New Page</title>    
+        <header>
+            <h3>Brand New Page</h3>
+        </header>
+    </head>
+    <body>
+        <p>This is an example of an HTML file coded within VS</p>
+    </body>
+</html>
